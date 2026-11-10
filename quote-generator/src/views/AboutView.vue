@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>About</h1>
     <p>
     Hi, my name is Kelsey! I am almost 
     28 years old and I am in the Web & UX Design
