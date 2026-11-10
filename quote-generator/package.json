@@ -1,5 +1,5 @@
 {
-  "name": "Module 11",
+  "name": "quote-generator",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -39,6 +39,6 @@
     },
     "rules": {}
   },
-  "_id": "vue-school-travel-app@0.1.0",
+  "_id": "quote-generator@0.1.0",
   "readme": "ERROR: No README data found!"
 }

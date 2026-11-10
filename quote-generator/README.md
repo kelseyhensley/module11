@@ -1,4 +1,4 @@
-# vue-school-travel-app
+# quote-generator
 
 ## Project setup
 ```
